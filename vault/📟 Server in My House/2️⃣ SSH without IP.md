@@ -3,7 +3,7 @@ date: "20240322"
 publish: "true"
 ---
 
-#  SSH to Your Remote Server without IP
+# SSH to Your Remote Server without IP
 
 This article doesn't intend to specify the details of the SSH Remote procedure. It's merely a step-by-step tutorial. I believe it would be clearer to keep the steps straightforward.
 

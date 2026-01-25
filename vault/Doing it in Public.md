@@ -5,6 +5,9 @@ publish: "true"
 ---
 # Doing it in Public
 
+![[499583131_17911021707130309_1563728105197966515_n.jpg]]
+[source](https://www.threads.com/@developedbyumair/post/DJyWVx6SvN_)
+
 This is my Permanent Notes. 
 ## Principles
 

@@ -1,7 +1,7 @@
 {
   "accentColor": "#4348fb",
   "theme": "system",
-  "cssTheme": "Minimal",
+  "cssTheme": "iA Writer",
   "enabledCssSnippets": [
     "obsidian"
   ],
@@ -9,8 +9,8 @@
   "translucency": false,
   "nativeMenus": true,
   "monospaceFontFamily": "",
-  "baseFontSize": 18,
-  "interfaceFontFamily": "Spectral",
-  "textFontFamily": "Spectral,BiauKaiHK,ShanHaiTangGongZanHuaKai,Kai",
+  "baseFontSize": 14,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
   "showRibbon": false
 }

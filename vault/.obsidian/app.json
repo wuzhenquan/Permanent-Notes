@@ -7,8 +7,15 @@
   "showInlineTitle": false,
   "focusNewTab": true,
   "newFileLocation": "root",
-  "vimMode": true,
+  "vimMode": false,
   "useMarkdownLinks": false,
   "livePreview": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

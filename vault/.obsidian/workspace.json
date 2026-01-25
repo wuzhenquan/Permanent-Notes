@@ -4,107 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "1f1468d503c7d8b4",
+        "id": "0aff13683631041f",
         "type": "tabs",
         "children": [
           {
-            "id": "3a2e948d75fd8b7a",
+            "id": "f0c894798ebd419c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yearly Review/2024.md",
+                "file": "Yearly Review/2025.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2024"
-            }
-          },
-          {
-            "id": "60ca5adbd8fb0c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yearly Review/2024.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2024"
-            }
-          },
-          {
-            "id": "70ff138c86119271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧭 PKM/我的 Zettlekasten 笔记法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "我的 Zettlekasten 笔记法"
-            }
-          },
-          {
-            "id": "9d42b2f693a547a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gap 对我的改变（全英）.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gap 对我的改变（全英）"
+              "title": "2025"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,11 +32,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0240fc1d6aa27521",
+        "id": "e16f1be670716f1e",
         "type": "tabs",
         "children": [
           {
-            "id": "fdfaeff1f614ea39",
+            "id": "caf6cbe822cfb193",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -128,33 +46,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "996de21f8d51d8e8",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "zettle",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "e595c8ff48a7ad09",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
@@ -166,139 +57,48 @@
   "right": {
     "id": "2d71f713cba1185d",
     "type": "split",
-    "children": [
-      {
-        "id": "36abc2fe23f66489",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9820ba71fad4bd14",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Doing it in Public.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Doing it in Public"
-            }
-          },
-          {
-            "id": "135a3242c1adf542",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Doing it in Public.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Doing it in Public"
-            }
-          },
-          {
-            "id": "d3994b0b8023b597",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "0d6af33baba81877",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Doing it in Public.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Doing it in Public"
-            }
-          },
-          {
-            "id": "53575640d4f424a5",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "5f25a690fe52f00a",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Doing it in Public.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Doing it in Public"
-            }
-          }
-        ],
-        "currentTab": 5
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 441.5,
     "collapsed": true
   },
   "left-ribbon": {
-    "hiddenItems": {
-      "random-note:Open random note": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
-    }
+    "hiddenItems": {}
   },
-  "active": "9d42b2f693a547a6",
+  "active": "f0c894798ebd419c",
   "lastOpenFiles": [
-    "2025.md",
-    "🧭 PKM/我的 Zettlekasten 笔记法.md",
+    "Yearly Review/2025.md",
     "Yearly Review/2024.md",
+    "Doing it in Public.md",
+    "499583131_17911021707130309_1563728105197966515_n.jpg",
+    "Untitled.md",
+    "📟 Server in My House/1️⃣ WSL 2 Setup.md",
+    "📟 Server in My House/2️⃣ SSH without IP.md",
+    "📟 Server in My House/📟 Server in My House.md",
+    "🧭 PKM/我的 Zettlekasten 笔记法.md",
     "index.md",
     "Gap 对我的改变（全英）.md",
-    "Doing it in Public.md",
+    "🌌 Roam Research/Untitled.md",
     "🎴 Knowledge Cards/101.canvas",
-    "🎴 Knowledge Cards/1 Dash Board.md",
+    "🎴 Knowledge Cards/Cloudflared.md",
     "🎴 Knowledge Cards/What is Left & Right?.md",
+    "🎴 Knowledge Cards/grammar terms.md",
+    "📟 Server in My House/4️⃣ No more WSL.md",
+    "🎴 Knowledge Cards/grammar structure.md",
+    "📟 Server in My House/5️⃣ Trying out Lazyvim.md",
+    "📟 Server in My House/3️⃣ Duck DNS.md",
+    "Pasted image 20250519063206.png",
+    "12Weeks",
+    "English Learning",
+    "🎴 Knowledge Cards/1 Dash Board.md",
     "🎴 Knowledge Cards/Keyrings.md",
     "🎴 Knowledge Cards/GPG key.md",
-    "🎴 Knowledge Cards/Cloudflared.md",
-    "🌌 Roam Research/Untitled.md",
     "Yearly Review",
     "✏️ Drafts/✍🏻 SSH to Home Server Without a Public IP.md",
     "🧭 PKM",
     "✏️ Drafts/Pasted image 20240910153245.png",
     "✏️ Drafts/Pasted image 20240910143704.png",
     "✏️ Drafts/Pasted image 20240910142611.png",
-    "📟 Server in My House/3️⃣ Duck DNS.md",
-    "📟 Server in My House/2️⃣ SSH without IP.md",
-    "📟 Server in My House/1️⃣ WSL 2 Setup.md",
-    "📟 Server in My House/📟 Server in My House.md",
     "🌌 Roam Research",
     "✏️ Drafts/Pasted image 20240910154406.png",
     "✏️ Drafts/Pasted image 20240910154150.png",
@@ -310,20 +110,10 @@
     "✏️ Drafts",
     "vercel.json",
     "📟 Server in My House",
-    "📰 Articles/📟 Server in My House/1 WSL 2 Setup.md",
-    "📰 Articles/📟 Server in My House/📟 Server in my House.md",
     "✏️ Drafts",
-    "✍️ Drafts/SSH Connecting to your local network with your damn bad Domain Name!!!!!!!!!.md",
-    "✍️ Drafts/Cloudflare.md",
-    "✍️ Drafts",
-    "📰 Articles/📟 Server in My House/2 SSH without IP.md",
-    "📰 Articles/📟 Server in My House/3 Duck DNS.md",
-    "🎴🀄🃏 Cards",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "thing 项目笔记/logo/HatchfulExport-All/twitter_profile_image.png",
-    "thing 项目笔记/logo/HatchfulExport-All/youtube_profile_image.png",
-    "thing 项目笔记/logo/HatchfulExport-All/twitter_header_photo_2.png",
-    "thing 项目笔记/logo/HatchfulExport-All/twitter_header_photo_1.png"
+    "thing 项目笔记/logo/HatchfulExport-All/youtube_profile_image.png"
   ]
 }
